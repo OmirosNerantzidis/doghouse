@@ -21,6 +21,10 @@ public class Doghouse {
         // TODO code application logic here
         
         Dog dog1 = new Dog();
+        Dog dog2 = new Dog();
+        
+        
+        
         
         Scanner age = new Scanner(System.in);
         System.out.println("Insert Age:");       
